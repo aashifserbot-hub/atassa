@@ -30,6 +30,11 @@
       "description": "Fill the value true if you want bot to automatically view your Statuses.",
       "required" :false,
       "value": "true"
+    },
+    "DATABASE_URL": {
+      "description": "Insert database URL if you have here.",
+      "required" :false,
+      "value": ""
     }
   }, 
   "addons": [
