@@ -287,17 +287,6 @@ pm2 restart atassa-md
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### 𝟒. 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 
-
-<details>
-<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
-  
-- **[CONTACT SUPPORT](https://api.giftedtech.co.ke/contact) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VbCpYtZLtOj5LDuj7Q1p) for Daily Updates.**
-- **Check out my [Website Profile](https://me.giftedtech.co.ke) for More Projects.**
-</details>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
